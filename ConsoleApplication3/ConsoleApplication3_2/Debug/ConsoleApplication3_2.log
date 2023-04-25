@@ -1,0 +1,3 @@
+﻿  ConsoleApplication3_2.cpp
+C:\Users\xxxxx\source\repos\ConsoleApplication3\ConsoleApplication3_2\ConsoleApplication3_2.cpp(12,32): warning C4081: требуется "newline"; обнаружен ";"
+  ConsoleApplication3_2.vcxproj -> C:\Users\xxxxx\source\repos\ConsoleApplication3\Debug\ConsoleApplication3_2.exe
